@@ -1,0 +1,1420 @@
+[
+  {
+    "_id": "user_001_alice",
+    "name": "Alice Sharma",
+    "email": "alice@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "3rd Year",
+    "role": "Frontend",
+    "roles": [
+      "Frontend",
+      "UI/UX"
+    ],
+    "skills": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Next.js",
+      "Figma",
+      "Redux"
+    ],
+    "techStack": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Next.js",
+      "Figma",
+      "Redux"
+    ],
+    "bio": "Passionate frontend engineer obsessed with clean UI and smooth animations. Looking for backend & AI teammates to win SIH 2026!",
+    "links": {
+      "github": "https://github.com/alice-sharma",
+      "linkedin": "https://linkedin.com/in/alicesharma"
+    },
+    "cgpa": 9.3,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Alice%20Sharma",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_002_bob",
+    "name": "Bob Patel",
+    "email": "bob@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Information Technology (IT)",
+    "year": "3rd Year",
+    "role": "Backend",
+    "roles": [
+      "Backend",
+      "DevOps"
+    ],
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "REST APIs"
+    ],
+    "techStack": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "REST APIs"
+    ],
+    "bio": "API architect and database optimization geek. Built high-scale backends. Need a solid frontend partner and UI designer!",
+    "links": {
+      "github": "https://github.com/bob-patel",
+      "linkedin": "https://linkedin.com/in/bobpatel"
+    },
+    "cgpa": 8.8,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Bob%20Patel",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_003_charlie",
+    "name": "Charlie Verma",
+    "email": "charlie@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Engineering",
+    "year": "4th Year",
+    "role": "AI/ML",
+    "roles": [
+      "AI/ML",
+      "Backend"
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "FastAPI",
+      "Gemini API",
+      "LangChain",
+      "Vector DBs",
+      "OpenCV"
+    ],
+    "techStack": [
+      "Python",
+      "PyTorch",
+      "FastAPI",
+      "Gemini API",
+      "LangChain",
+      "Vector DBs",
+      "OpenCV"
+    ],
+    "bio": "Focused on agentic workflows and fine-tuning LLMs. Looking for web devs who can wrap intelligent AI models into a slick product.",
+    "links": {
+      "github": "https://github.com/charlie-verma",
+      "linkedin": "https://linkedin.com/in/charlieverma"
+    },
+    "cgpa": 9.5,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Charlie%20Verma",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_004_divya",
+    "name": "Divya Nair",
+    "email": "divya@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Electronics & Communication (ECE)",
+    "year": "2nd Year",
+    "role": "UI/UX",
+    "roles": [
+      "UI/UX",
+      "Frontend"
+    ],
+    "skills": [
+      "Figma",
+      "UI/UX Design",
+      "Wireframing",
+      "Tailwind CSS",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "techStack": [
+      "Figma",
+      "UI/UX Design",
+      "Wireframing",
+      "Tailwind CSS",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "bio": "Design thinking specialist with 20+ Figma UI kits created. Looking to join a motivated team that values good product experience.",
+    "links": {
+      "github": "https://github.com/divya-nair",
+      "linkedin": "https://linkedin.com/in/divyanair"
+    },
+    "cgpa": 9.1,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Divya%20Nair",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_005_rohan",
+    "name": "Rohan Gupta",
+    "email": "rohan@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "3rd Year",
+    "role": "Fullstack",
+    "roles": [
+      "Fullstack",
+      "Mobile"
+    ],
+    "skills": [
+      "React",
+      "Node.js",
+      "Socket.io",
+      "MongoDB",
+      "WebSockets",
+      "GraphQL",
+      "Tailwind"
+    ],
+    "techStack": [
+      "React",
+      "Node.js",
+      "Socket.io",
+      "MongoDB",
+      "WebSockets",
+      "GraphQL",
+      "Tailwind"
+    ],
+    "bio": "3x hackathon winner. Can turn ideas into working fullstack MVPs in 12 hours flat. Let's team up and take the 1st prize!",
+    "links": {
+      "github": "https://github.com/rohan-gupta",
+      "linkedin": "https://linkedin.com/in/rohangupta"
+    },
+    "cgpa": 8.9,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Rohan%20Gupta",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_006_admin",
+    "name": "Campus Hackathon Coordinator",
+    "email": "admin@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "4th Year",
+    "role": "Fullstack",
+    "roles": [
+      "Fullstack",
+      "DevOps"
+    ],
+    "skills": [
+      "Node.js",
+      "React",
+      "Cloud Architecture",
+      "Docker",
+      "DevOps"
+    ],
+    "techStack": [
+      "Node.js",
+      "React",
+      "Cloud Architecture",
+      "Docker",
+      "DevOps"
+    ],
+    "bio": "Official Campus Tech Society Administrator and SIH Organizer. Reach out for hackathon support & rules clarification.",
+    "links": {
+      "github": "https://github.com/campus-admin",
+      "linkedin": "https://linkedin.com/in/campusadmin"
+    },
+    "cgpa": 9.8,
+    "isAdmin": true,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon",
+      "event_devclash",
+      "event_cybershield"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Campus%20Hackathon%20Coordinator",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_007_priya",
+    "name": "Priya Sen",
+    "email": "priya.sen@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "3rd Year",
+    "role": "Mobile",
+    "roles": [
+      "Mobile",
+      "Frontend"
+    ],
+    "skills": [
+      "Flutter",
+      "Dart",
+      "React Native",
+      "Firebase",
+      "State Management",
+      "REST APIs"
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart",
+      "React Native",
+      "Firebase",
+      "State Management",
+      "REST APIs"
+    ],
+    "bio": "Cross-platform mobile developer. Published 4 apps on Play Store. Looking for backend partners for Makeathon!",
+    "links": {
+      "github": "https://github.com/priyasen",
+      "linkedin": "https://linkedin.com/in/priyasen"
+    },
+    "cgpa": 9,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_makeathon",
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Priya%20Sen",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_008_vikram",
+    "name": "Vikram Sethi",
+    "email": "vikram.sethi@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Information Technology (IT)",
+    "year": "4th Year",
+    "role": "DevOps",
+    "roles": [
+      "DevOps",
+      "Backend"
+    ],
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD",
+      "Terraform",
+      "GitHub Actions",
+      "Linux"
+    ],
+    "techStack": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD",
+      "Terraform",
+      "GitHub Actions",
+      "Linux"
+    ],
+    "bio": "Infrastructure automation fanatic. Zero-downtime deployments and containerized staging environments for hackathons.",
+    "links": {
+      "github": "https://github.com/vikramsethi",
+      "linkedin": "https://linkedin.com/in/vikramsethi"
+    },
+    "cgpa": 8.6,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_cybershield"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Vikram%20Sethi",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_009_ananya",
+    "name": "Ananya Joshi",
+    "email": "ananya.j@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "AI & Data Science",
+    "year": "2nd Year",
+    "role": "AI/ML",
+    "roles": [
+      "AI/ML",
+      "Data Science"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Pandas",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Data Pipelines"
+    ],
+    "techStack": [
+      "Python",
+      "TensorFlow",
+      "Pandas",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Data Pipelines"
+    ],
+    "bio": "Data enthusiast with Kaggle Expert badge. Looking for frontend/backend peers to build predictive analytics tools.",
+    "links": {
+      "github": "https://github.com/ananyajoshi",
+      "linkedin": "https://linkedin.com/in/ananyajoshi"
+    },
+    "cgpa": 9.4,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_devclash",
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Ananya%20Joshi",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_010_kabir",
+    "name": "Kabir Malhotra",
+    "email": "kabir.m@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "2nd Year",
+    "role": "Frontend",
+    "roles": [
+      "Frontend"
+    ],
+    "skills": [
+      "React",
+      "Vue.js",
+      "Tailwind CSS",
+      "JavaScript",
+      "HTML5/CSS3",
+      "Git"
+    ],
+    "techStack": [
+      "React",
+      "Vue.js",
+      "Tailwind CSS",
+      "JavaScript",
+      "HTML5/CSS3",
+      "Git"
+    ],
+    "bio": "High energy UI engineer with love for interactive web graphics and intuitive student portals.",
+    "links": {
+      "github": "https://github.com/kabirmalhotra",
+      "linkedin": "https://linkedin.com/in/kabirmalhotra"
+    },
+    "cgpa": 8.5,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Kabir%20Malhotra",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_011_meera",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Information Technology (IT)",
+    "year": "3rd Year",
+    "role": "Cybersecurity",
+    "roles": [
+      "Cybersecurity",
+      "Backend"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "OAuth2",
+      "Cryptography",
+      "Python",
+      "Wireshark",
+      "Linux"
+    ],
+    "techStack": [
+      "Penetration Testing",
+      "OAuth2",
+      "Cryptography",
+      "Python",
+      "Wireshark",
+      "Linux"
+    ],
+    "bio": "CTF player and web security researcher. Want to form an elite team for CyberShield and SIH Smart Security track.",
+    "links": {
+      "github": "https://github.com/meeraiyer",
+      "linkedin": "https://linkedin.com/in/meeraiyer"
+    },
+    "cgpa": 9.2,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_cybershield",
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Meera%20Iyer",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_012_arjun",
+    "name": "Arjun Mehta",
+    "email": "arjun.m@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Electronics & Communication (ECE)",
+    "year": "3rd Year",
+    "role": "Fullstack",
+    "roles": [
+      "Fullstack",
+      "IoT"
+    ],
+    "skills": [
+      "Node.js",
+      "React",
+      "ESP32",
+      "MQTT",
+      "C++",
+      "Sensors",
+      "WebSockets"
+    ],
+    "techStack": [
+      "Node.js",
+      "React",
+      "ESP32",
+      "MQTT",
+      "C++",
+      "Sensors",
+      "WebSockets"
+    ],
+    "bio": "Hardware meets software! I build IoT sensor systems connected to live web dashboards.",
+    "links": {
+      "github": "https://github.com/arjunmehta",
+      "linkedin": "https://linkedin.com/in/arjunmehta"
+    },
+    "cgpa": 8.7,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_makeathon"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Arjun%20Mehta",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_013_tanvi",
+    "name": "Tanvi Saxena",
+    "email": "tanvi.s@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "4th Year",
+    "role": "Backend",
+    "roles": [
+      "Backend"
+    ],
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Microservices",
+      "Kafka",
+      "Docker"
+    ],
+    "techStack": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Microservices",
+      "Kafka",
+      "Docker"
+    ],
+    "bio": "Enterprise backend dev with an internship under my belt. Strong at low latency and clean architectures.",
+    "links": {
+      "github": "https://github.com/tanvisaxena",
+      "linkedin": "https://linkedin.com/in/tanvisaxena"
+    },
+    "cgpa": 9.6,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Tanvi%20Saxena",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_014_harsh",
+    "name": "Harsh Vardhan",
+    "email": "harsh.v@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Engineering",
+    "year": "2nd Year",
+    "role": "AI/ML",
+    "roles": [
+      "AI/ML"
+    ],
+    "skills": [
+      "Python",
+      "Hugging Face",
+      "LLMs",
+      "RAG",
+      "ChromaDB",
+      "Streamlit"
+    ],
+    "techStack": [
+      "Python",
+      "Hugging Face",
+      "LLMs",
+      "RAG",
+      "ChromaDB",
+      "Streamlit"
+    ],
+    "bio": "Building custom retrieval-augmented generation (RAG) pipelines. Looking for hackathon partners for DevClash!",
+    "links": {
+      "github": "https://github.com/harshvardhan",
+      "linkedin": "https://linkedin.com/in/harshvardhan"
+    },
+    "cgpa": 8.9,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_devclash",
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Harsh%20Vardhan",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_015_sneha",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.k@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "AI & Data Science",
+    "year": "3rd Year",
+    "role": "UI/UX",
+    "roles": [
+      "UI/UX",
+      "Product"
+    ],
+    "skills": [
+      "Figma",
+      "User Research",
+      "Interaction Design",
+      "Prototyping",
+      "Pitch Decks"
+    ],
+    "techStack": [
+      "Figma",
+      "User Research",
+      "Interaction Design",
+      "Prototyping",
+      "Pitch Decks"
+    ],
+    "bio": "Product designer and pitch deck wizard. I specialize in turning complex technical systems into winning stories.",
+    "links": {
+      "github": "https://github.com/snehakulkarni",
+      "linkedin": "https://linkedin.com/in/snehakulkarni"
+    },
+    "cgpa": 9.1,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Sneha%20Kulkarni",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_016_rahul",
+    "name": "Rahul Bansal",
+    "email": "rahul.b@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "1st Year",
+    "role": "Frontend",
+    "roles": [
+      "Frontend"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Bootstrap",
+      "Git"
+    ],
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Bootstrap",
+      "Git"
+    ],
+    "bio": "Freshman enthusiastic about competitive programming and building cool web apps. Fast learner looking for a team!",
+    "links": {
+      "github": "https://github.com/rahulbansal",
+      "linkedin": "https://linkedin.com/in/rahulbansal"
+    },
+    "cgpa": 8.4,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_makeathon",
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Rahul%20Bansal",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_017_zoya",
+    "name": "Zoya Khan",
+    "email": "zoya.khan@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Information Technology (IT)",
+    "year": "3rd Year",
+    "role": "Fullstack",
+    "roles": [
+      "Fullstack"
+    ],
+    "skills": [
+      "MERN Stack",
+      "Next.js",
+      "Prisma",
+      "PostgreSQL",
+      "Tailwind CSS"
+    ],
+    "techStack": [
+      "MERN Stack",
+      "Next.js",
+      "Prisma",
+      "PostgreSQL",
+      "Tailwind CSS"
+    ],
+    "bio": "Fullstack engineer comfortable shipping from zero to production. Looking for teammates with creative problem statements.",
+    "links": {
+      "github": "https://github.com/zoyakhan",
+      "linkedin": "https://linkedin.com/in/zoyakhan"
+    },
+    "cgpa": 9,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Zoya%20Khan",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_018_aditya",
+    "name": "Aditya Nair",
+    "email": "aditya.n@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "4th Year",
+    "role": "Backend",
+    "roles": [
+      "Backend",
+      "DevOps"
+    ],
+    "skills": [
+      "Golang",
+      "gRPC",
+      "Docker",
+      "PostgreSQL",
+      "Redis",
+      "Distributed Systems"
+    ],
+    "techStack": [
+      "Golang",
+      "gRPC",
+      "Docker",
+      "PostgreSQL",
+      "Redis",
+      "Distributed Systems"
+    ],
+    "bio": "Golang developer passionate about ultra-fast concurrency and microservice efficiency. SIH veteran.",
+    "links": {
+      "github": "https://github.com/adityanair",
+      "linkedin": "https://linkedin.com/in/adityanair"
+    },
+    "cgpa": 9.4,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_cybershield"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Aditya%20Nair",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_019_pooja",
+    "name": "Pooja Agarwal",
+    "email": "pooja.a@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Biotechnology",
+    "year": "3rd Year",
+    "role": "AI/ML",
+    "roles": [
+      "AI/ML",
+      "Bioinformatics"
+    ],
+    "skills": [
+      "Python",
+      "Biopython",
+      "Machine Learning",
+      "Data Analysis",
+      "R"
+    ],
+    "techStack": [
+      "Python",
+      "Biopython",
+      "Machine Learning",
+      "Data Analysis",
+      "R"
+    ],
+    "bio": "Biotech major building healthcare and medical diagnostics software with AI. Let's tackle healthcare in SIH!",
+    "links": {
+      "github": "https://github.com/poojaagarwal",
+      "linkedin": "https://linkedin.com/in/poojaagarwal"
+    },
+    "cgpa": 9.3,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Pooja%20Agarwal",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_020_karthik",
+    "name": "Karthik Pillai",
+    "email": "karthik.p@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Engineering",
+    "year": "2nd Year",
+    "role": "Mobile",
+    "roles": [
+      "Mobile"
+    ],
+    "skills": [
+      "React Native",
+      "Expo",
+      "Redux",
+      "Firebase",
+      "TypeScript"
+    ],
+    "techStack": [
+      "React Native",
+      "Expo",
+      "Redux",
+      "Firebase",
+      "TypeScript"
+    ],
+    "bio": "React Native developer who loves fast animations and smooth touch gestures. Ready to sprint!",
+    "links": {
+      "github": "https://github.com/karthikpillai",
+      "linkedin": "https://linkedin.com/in/karthikpillai"
+    },
+    "cgpa": 8.6,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_makeathon"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Karthik%20Pillai",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_021_shreya",
+    "name": "Shreya Sen",
+    "email": "shreya.s@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "3rd Year",
+    "role": "Frontend",
+    "roles": [
+      "Frontend"
+    ],
+    "skills": [
+      "React",
+      "Three.js",
+      "Tailwind CSS",
+      "GSAP",
+      "Web Audio API"
+    ],
+    "techStack": [
+      "React",
+      "Three.js",
+      "Tailwind CSS",
+      "GSAP",
+      "Web Audio API"
+    ],
+    "bio": "Frontend developer who blends 3D animations with intuitive accessibility. Looking for Web & AI teammates.",
+    "links": {
+      "github": "https://github.com/shreyasen",
+      "linkedin": "https://linkedin.com/in/shreyasen"
+    },
+    "cgpa": 9.2,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_makeathon",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Shreya%20Sen",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_022_mohit",
+    "name": "Mohit Aggarwal",
+    "email": "mohit.a@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Mechanical Engineering",
+    "year": "3rd Year",
+    "role": "Fullstack",
+    "roles": [
+      "Fullstack",
+      "Robotics"
+    ],
+    "skills": [
+      "Python",
+      "ROS2",
+      "OpenCV",
+      "Flask",
+      "React",
+      "CAD"
+    ],
+    "techStack": [
+      "Python",
+      "ROS2",
+      "OpenCV",
+      "Flask",
+      "React",
+      "CAD"
+    ],
+    "bio": "Autonomous robotics enthusiast and maker. Let's build a software+hardware prototype at Makeathon 3026!",
+    "links": {
+      "github": "https://github.com/mohitaggarwal",
+      "linkedin": "https://linkedin.com/in/mohitaggarwal"
+    },
+    "cgpa": 8.8,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_makeathon"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Mohit%20Aggarwal",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_023_kriti",
+    "name": "Kriti Mittal",
+    "email": "kriti.m@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Information Technology (IT)",
+    "year": "2nd Year",
+    "role": "UI/UX",
+    "roles": [
+      "UI/UX"
+    ],
+    "skills": [
+      "Figma",
+      "User Testing",
+      "Illustrator",
+      "Canva",
+      "Product Strategy"
+    ],
+    "techStack": [
+      "Figma",
+      "User Testing",
+      "Illustrator",
+      "Canva",
+      "Product Strategy"
+    ],
+    "bio": "Passionate about human-centered design. I design interfaces that non-technical judges can understand in 30 seconds.",
+    "links": {
+      "github": "https://github.com/kritimittal",
+      "linkedin": "https://linkedin.com/in/kritimittal"
+    },
+    "cgpa": 9,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Kriti%20Mittal",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_024_varun",
+    "name": "Varun Singla",
+    "email": "varun.s@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "3rd Year",
+    "role": "DevOps",
+    "roles": [
+      "DevOps",
+      "Backend"
+    ],
+    "skills": [
+      "Docker",
+      "Linux",
+      "Nginx",
+      "Kubernetes",
+      "Shell Scripting",
+      "Prometheus"
+    ],
+    "techStack": [
+      "Docker",
+      "Linux",
+      "Nginx",
+      "Kubernetes",
+      "Shell Scripting",
+      "Prometheus"
+    ],
+    "bio": "System reliability engineer in training. I set up monitoring, log aggregation, and resilient server setups.",
+    "links": {
+      "github": "https://github.com/varunsingla",
+      "linkedin": "https://linkedin.com/in/varunsingla"
+    },
+    "cgpa": 8.7,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_cybershield"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Varun%20Singla",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_025_neha",
+    "name": "Neha Bhatt",
+    "email": "neha.b@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Electronics & Communication (ECE)",
+    "year": "4th Year",
+    "role": "AI/ML",
+    "roles": [
+      "AI/ML"
+    ],
+    "skills": [
+      "PyTorch",
+      "Computer Vision",
+      "YOLOv8",
+      "Deep Learning",
+      "TensorRT"
+    ],
+    "techStack": [
+      "PyTorch",
+      "Computer Vision",
+      "YOLOv8",
+      "Deep Learning",
+      "TensorRT"
+    ],
+    "bio": "Computer vision developer. Trained real-time object detection models for smart traffic and drone monitoring.",
+    "links": {
+      "github": "https://github.com/nehabhatt",
+      "linkedin": "https://linkedin.com/in/nehabhatt"
+    },
+    "cgpa": 9.5,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_devclash",
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Neha%20Bhatt",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_026_siddharth",
+    "name": "Siddharth Roy",
+    "email": "siddharth.r@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "2nd Year",
+    "role": "Backend",
+    "roles": [
+      "Backend"
+    ],
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "Redis",
+      "Docker"
+    ],
+    "techStack": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "Redis",
+      "Docker"
+    ],
+    "bio": "Backend developer with strong database normalization and queue management skills. Ready to build!",
+    "links": {
+      "github": "https://github.com/siddharthroy",
+      "linkedin": "https://linkedin.com/in/siddharthroy"
+    },
+    "cgpa": 8.6,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Siddharth%20Roy",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_027_ishaan",
+    "name": "Ishaan Goyal",
+    "email": "ishaan.g@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Engineering",
+    "year": "1st Year",
+    "role": "Frontend",
+    "roles": [
+      "Frontend"
+    ],
+    "skills": [
+      "React",
+      "JavaScript",
+      "CSS3",
+      "Tailwind CSS",
+      "Git"
+    ],
+    "techStack": [
+      "React",
+      "JavaScript",
+      "CSS3",
+      "Tailwind CSS",
+      "Git"
+    ],
+    "bio": "Enthusiastic beginner web developer with a knack for rapid prototype assembly.",
+    "links": {
+      "github": "https://github.com/ishaangoyal",
+      "linkedin": "https://linkedin.com/in/ishaangoyal"
+    },
+    "cgpa": 8.3,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_makeathon"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Ishaan%20Goyal",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_028_simran",
+    "name": "Simran Kaur",
+    "email": "simran.k@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Information Technology (IT)",
+    "year": "3rd Year",
+    "role": "Fullstack",
+    "roles": [
+      "Fullstack"
+    ],
+    "skills": [
+      "TypeScript",
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "GraphQL"
+    ],
+    "techStack": [
+      "TypeScript",
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "GraphQL"
+    ],
+    "bio": "Fullstack web developer focused on clean modern codebases and lightning fast load times.",
+    "links": {
+      "github": "https://github.com/simrankaur",
+      "linkedin": "https://linkedin.com/in/simrankaur"
+    },
+    "cgpa": 9.1,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Simran%20Kaur",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_029_manish",
+    "name": "Manish Tiwari",
+    "email": "manish.t@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "3rd Year",
+    "role": "Cybersecurity",
+    "roles": [
+      "Cybersecurity"
+    ],
+    "skills": [
+      "Network Security",
+      "Burp Suite",
+      "OWASP Top 10",
+      "Python",
+      "Bash",
+      "SIEM"
+    ],
+    "techStack": [
+      "Network Security",
+      "Burp Suite",
+      "OWASP Top 10",
+      "Python",
+      "Bash",
+      "SIEM"
+    ],
+    "bio": "Ethical hacker and vulnerability analyst. Looking for teammates to build defensive cyber tools.",
+    "links": {
+      "github": "https://github.com/manishtiwari",
+      "linkedin": "https://linkedin.com/in/manishtiwari"
+    },
+    "cgpa": 8.9,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_cybershield",
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Manish%20Tiwari",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_030_riya",
+    "name": "Riya Chawla",
+    "email": "riya.c@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "AI & Data Science",
+    "year": "2nd Year",
+    "role": "AI/ML",
+    "roles": [
+      "AI/ML"
+    ],
+    "skills": [
+      "NLP",
+      "Transformers",
+      "spaCy",
+      "Python",
+      "BERT",
+      "FastAPI"
+    ],
+    "techStack": [
+      "NLP",
+      "Transformers",
+      "spaCy",
+      "Python",
+      "BERT",
+      "FastAPI"
+    ],
+    "bio": "Natural language processing enthusiast. Building multilingual summarizers and voice-to-text assistants.",
+    "links": {
+      "github": "https://github.com/riyachawla",
+      "linkedin": "https://linkedin.com/in/riyachawla"
+    },
+    "cgpa": 9.3,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_devclash",
+      "event_sih"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Riya%20Chawla",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_031_gurpreet",
+    "name": "Gurpreet Singh",
+    "email": "gurpreet.s@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Computer Science (CSE)",
+    "year": "3rd Year",
+    "role": "Fullstack",
+    "roles": [
+      "Fullstack"
+    ],
+    "skills": [
+      "React",
+      "Express",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Tailwind CSS"
+    ],
+    "techStack": [
+      "React",
+      "Express",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Tailwind CSS"
+    ],
+    "bio": "Thapar student excited to partner with cross-college hackathon teammates for SIH 2026!",
+    "links": {
+      "github": "https://github.com/gurpreetsingh",
+      "linkedin": "https://linkedin.com/in/gurpreetsingh"
+    },
+    "cgpa": 9.1,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_devclash"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Gurpreet%20Singh",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "user_032_karan",
+    "name": "Karan Bhatia",
+    "email": "karan.b@thapar.edu",
+    "password": "$2a$10$JixxbHLGfLIkSmEg6fw2kO8f3BY1HpU3WA.2sFw/lzB/4kjdIG0Im",
+    "branch": "Information Technology (IT)",
+    "year": "4th Year",
+    "role": "Frontend",
+    "roles": [
+      "Frontend",
+      "UI/UX"
+    ],
+    "skills": [
+      "React",
+      "Next.js",
+      "Figma",
+      "Tailwind CSS",
+      "Storybook",
+      "TypeScript"
+    ],
+    "techStack": [
+      "React",
+      "Next.js",
+      "Figma",
+      "Tailwind CSS",
+      "Storybook",
+      "TypeScript"
+    ],
+    "bio": "Senior UI developer with 5 production projects. Ready to deliver a stunning frontend for SIH.",
+    "links": {
+      "github": "https://github.com/karanbhatia",
+      "linkedin": "https://linkedin.com/in/karanbhatia"
+    },
+    "cgpa": 8.9,
+    "isAdmin": false,
+    "isAvailable": true,
+    "lookingForTeam": true,
+    "events": [
+      "event_sih",
+      "event_makeathon"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Karan%20Bhatia",
+    "createdAt": "2026-11-25T10:53:21.944Z",
+    "updatedAt": "2026-11-25T10:53:21.944Z"
+  }
+]

@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: hackmate
+    env: node
+    plan: free
+    region: oregon
+    buildCommand: npm run build
+    startCommand: npm run start:prod
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ALLOWED_EMAIL_DOMAIN
+        value: thapar.edu

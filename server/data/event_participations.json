@@ -1,0 +1,522 @@
+[
+  {
+    "_id": "part_user_001_alice_event_sih",
+    "user": "user_001_alice",
+    "event": "event_sih",
+    "note": "Looking for a rockstar backend engineer and an ML dev to build an automated campus hospital triage tool.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_001_alice_event_makeathon",
+    "user": "user_001_alice",
+    "event": "event_makeathon",
+    "note": "Looking for a rockstar backend engineer and an ML dev to build an automated campus hospital triage tool.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_001_alice_event_devclash",
+    "user": "user_001_alice",
+    "event": "event_devclash",
+    "note": "Looking for a rockstar backend engineer and an ML dev to build an automated campus hospital triage tool.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_002_bob_event_sih",
+    "user": "user_002_bob",
+    "event": "event_sih",
+    "note": "I have the microservices architecture ready. Looking for a frontend specialist to craft a killer demo dashboard.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_002_bob_event_makeathon",
+    "user": "user_002_bob",
+    "event": "event_makeathon",
+    "note": "I have the microservices architecture ready. Looking for a frontend specialist to craft a killer demo dashboard.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_002_bob_event_devclash",
+    "user": "user_002_bob",
+    "event": "event_devclash",
+    "note": "I have the microservices architecture ready. Looking for a frontend specialist to craft a killer demo dashboard.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_003_charlie_event_sih",
+    "user": "user_003_charlie",
+    "event": "event_sih",
+    "note": "Building an agentic code review assistant. Need fullstack web devs to wrap it into a responsive UI.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_003_charlie_event_devclash",
+    "user": "user_003_charlie",
+    "event": "event_devclash",
+    "note": "Building an agentic code review assistant. Need fullstack web devs to wrap it into a responsive UI.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_004_divya_event_sih",
+    "user": "user_004_divya",
+    "event": "event_sih",
+    "note": "I ensure our team wins the best presentation & usability award. Ready to design high-fidelity clickable mockups in 6 hours.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_004_divya_event_makeathon",
+    "user": "user_004_divya",
+    "event": "event_makeathon",
+    "note": "I ensure our team wins the best presentation & usability award. Ready to design high-fidelity clickable mockups in 6 hours.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_005_rohan_event_sih",
+    "user": "user_005_rohan",
+    "event": "event_sih",
+    "note": "Versatile hacker ready to wire up fullstack features, database pipelines, and WebSocket messaging.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_005_rohan_event_makeathon",
+    "user": "user_005_rohan",
+    "event": "event_makeathon",
+    "note": "Versatile hacker ready to wire up fullstack features, database pipelines, and WebSocket messaging.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_005_rohan_event_devclash",
+    "user": "user_005_rohan",
+    "event": "event_devclash",
+    "note": "Versatile hacker ready to wire up fullstack features, database pipelines, and WebSocket messaging.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_006_admin_event_sih",
+    "user": "user_006_admin",
+    "event": "event_sih",
+    "note": "Organizing and judging campus hackathons. Ping if you have questions regarding event rules.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_006_admin_event_makeathon",
+    "user": "user_006_admin",
+    "event": "event_makeathon",
+    "note": "Organizing and judging campus hackathons. Ping if you have questions regarding event rules.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_006_admin_event_devclash",
+    "user": "user_006_admin",
+    "event": "event_devclash",
+    "note": "Organizing and judging campus hackathons. Ping if you have questions regarding event rules.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_006_admin_event_cybershield",
+    "user": "user_006_admin",
+    "event": "event_cybershield",
+    "note": "Organizing and judging campus hackathons. Ping if you have questions regarding event rules.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_007_priya_event_makeathon",
+    "user": "user_007_priya",
+    "event": "event_makeathon",
+    "note": "Ready to build offline-first companion mobile apps with instant push alerts.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_007_priya_event_sih",
+    "user": "user_007_priya",
+    "event": "event_sih",
+    "note": "Ready to build offline-first companion mobile apps with instant push alerts.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_008_vikram_event_sih",
+    "user": "user_008_vikram",
+    "event": "event_sih",
+    "note": "Will handle all cloud deployments on AWS and maintain CI/CD pipelines so code tests automatically.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_008_vikram_event_cybershield",
+    "user": "user_008_vikram",
+    "event": "event_cybershield",
+    "note": "Will handle all cloud deployments on AWS and maintain CI/CD pipelines so code tests automatically.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_009_ananya_event_devclash",
+    "user": "user_009_ananya",
+    "event": "event_devclash",
+    "note": "Excited to train accurate predictive ML models for agricultural or healthcare datasets.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_009_ananya_event_sih",
+    "user": "user_009_ananya",
+    "event": "event_sih",
+    "note": "Excited to train accurate predictive ML models for agricultural or healthcare datasets.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_010_kabir_event_sih",
+    "user": "user_010_kabir",
+    "event": "event_sih",
+    "note": "Fast frontend builder. Can translate Figma designs into pixel-perfect React components.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_010_kabir_event_makeathon",
+    "user": "user_010_kabir",
+    "event": "event_makeathon",
+    "note": "Fast frontend builder. Can translate Figma designs into pixel-perfect React components.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_011_meera_event_cybershield",
+    "user": "user_011_meera",
+    "event": "event_cybershield",
+    "note": "Looking for backend engineers to build a secure multi-factor biometric authentication gateway.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_011_meera_event_sih",
+    "user": "user_011_meera",
+    "event": "event_sih",
+    "note": "Looking for backend engineers to build a secure multi-factor biometric authentication gateway.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_012_arjun_event_makeathon",
+    "user": "user_012_arjun",
+    "event": "event_makeathon",
+    "note": "Bringing real ESP32 sensors & hardware microcontrollers to Makeathon 3026.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_013_tanvi_event_sih",
+    "user": "user_013_tanvi",
+    "event": "event_sih",
+    "note": "Looking for an ambitious team targeting the Smart Automation track in SIH.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_013_tanvi_event_makeathon",
+    "user": "user_013_tanvi",
+    "event": "event_makeathon",
+    "note": "Looking for an ambitious team targeting the Smart Automation track in SIH.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_014_harsh_event_devclash",
+    "user": "user_014_harsh",
+    "event": "event_devclash",
+    "note": "Can set up private local LLMs and vector search embeddings in under 2 hours.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_014_harsh_event_sih",
+    "user": "user_014_harsh",
+    "event": "event_sih",
+    "note": "Can set up private local LLMs and vector search embeddings in under 2 hours.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_015_sneha_event_sih",
+    "user": "user_015_sneha",
+    "event": "event_sih",
+    "note": "Crafting the story, pitch deck, user journey, and stunning presentation slides for the jury.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_015_sneha_event_devclash",
+    "user": "user_015_sneha",
+    "event": "event_devclash",
+    "note": "Crafting the story, pitch deck, user journey, and stunning presentation slides for the jury.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_016_rahul_event_makeathon",
+    "user": "user_016_rahul",
+    "event": "event_makeathon",
+    "note": "Eager to learn and contribute around the clock during the 24-hr sprint.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_016_rahul_event_sih",
+    "user": "user_016_rahul",
+    "event": "event_sih",
+    "note": "Eager to learn and contribute around the clock during the 24-hr sprint.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_017_zoya_event_sih",
+    "user": "user_017_zoya",
+    "event": "event_sih",
+    "note": "Let's build a smart civic complaints tracking portal with automated duplicate detection.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_017_zoya_event_devclash",
+    "user": "user_017_zoya",
+    "event": "event_devclash",
+    "note": "Let's build a smart civic complaints tracking portal with automated duplicate detection.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_018_aditya_event_sih",
+    "user": "user_018_aditya",
+    "event": "event_sih",
+    "note": "Experienced with hackathon scoring rubrics. Looking for serious teammates aiming for top 3.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_018_aditya_event_cybershield",
+    "user": "user_018_aditya",
+    "event": "event_cybershield",
+    "note": "Experienced with hackathon scoring rubrics. Looking for serious teammates aiming for top 3.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_019_pooja_event_sih",
+    "user": "user_019_pooja",
+    "event": "event_sih",
+    "note": "Have a real dataset on antibiotic resistance ready for classification modeling.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_020_karthik_event_makeathon",
+    "user": "user_020_karthik",
+    "event": "event_makeathon",
+    "note": "Building the mobile client for team project.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_021_shreya_event_makeathon",
+    "user": "user_021_shreya",
+    "event": "event_makeathon",
+    "note": "Can integrate interactive 3D visualizations into our hackathon pitch.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_021_shreya_event_devclash",
+    "user": "user_021_shreya",
+    "event": "event_devclash",
+    "note": "Can integrate interactive 3D visualizations into our hackathon pitch.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_022_mohit_event_makeathon",
+    "user": "user_022_mohit",
+    "event": "event_makeathon",
+    "note": "Have robot rover chassis and camera ready for autonomous navigation challenge.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_023_kriti_event_sih",
+    "user": "user_023_kriti",
+    "event": "event_sih",
+    "note": "Ensuring high score in innovation and user experience categories.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_023_kriti_event_devclash",
+    "user": "user_023_kriti",
+    "event": "event_devclash",
+    "note": "Ensuring high score in innovation and user experience categories.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_024_varun_event_sih",
+    "user": "user_024_varun",
+    "event": "event_sih",
+    "note": "Will guarantee our backend API demo never crashes during jury evaluation.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_024_varun_event_cybershield",
+    "user": "user_024_varun",
+    "event": "event_cybershield",
+    "note": "Will guarantee our backend API demo never crashes during jury evaluation.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_025_neha_event_devclash",
+    "user": "user_025_neha",
+    "event": "event_devclash",
+    "note": "Building an automated safety helmet detection system for construction sites.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_025_neha_event_sih",
+    "user": "user_025_neha",
+    "event": "event_sih",
+    "note": "Building an automated safety helmet detection system for construction sites.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_026_siddharth_event_sih",
+    "user": "user_026_siddharth",
+    "event": "event_sih",
+    "note": "Can set up background workers for heavy AI pipeline jobs.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_026_siddharth_event_devclash",
+    "user": "user_026_siddharth",
+    "event": "event_devclash",
+    "note": "Can set up background workers for heavy AI pipeline jobs.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_027_ishaan_event_makeathon",
+    "user": "user_027_ishaan",
+    "event": "event_makeathon",
+    "note": "Looking to join an experienced senior team to learn and build.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_028_simran_event_sih",
+    "user": "user_028_simran",
+    "event": "event_sih",
+    "note": "Experienced in end-to-end fullstack development. Let's team up!",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_028_simran_event_makeathon",
+    "user": "user_028_simran",
+    "event": "event_makeathon",
+    "note": "Experienced in end-to-end fullstack development. Let's team up!",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_028_simran_event_devclash",
+    "user": "user_028_simran",
+    "event": "event_devclash",
+    "note": "Experienced in end-to-end fullstack development. Let's team up!",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_029_manish_event_cybershield",
+    "user": "user_029_manish",
+    "event": "event_cybershield",
+    "note": "Focused on securing APIs against prompt injection and cross-site scripting.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_029_manish_event_sih",
+    "user": "user_029_manish",
+    "event": "event_sih",
+    "note": "Focused on securing APIs against prompt injection and cross-site scripting.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_030_riya_event_devclash",
+    "user": "user_030_riya",
+    "event": "event_devclash",
+    "note": "Let's build a regional language voice assistant for rural healthcare services.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_030_riya_event_sih",
+    "user": "user_030_riya",
+    "event": "event_sih",
+    "note": "Let's build a regional language voice assistant for rural healthcare services.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_031_gurpreet_event_sih",
+    "user": "user_031_gurpreet",
+    "event": "event_sih",
+    "note": "Ready to collaborate and build high-impact software for national problem statements.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_031_gurpreet_event_devclash",
+    "user": "user_031_gurpreet",
+    "event": "event_devclash",
+    "note": "Ready to collaborate and build high-impact software for national problem statements.",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_032_karan_event_sih",
+    "user": "user_032_karan",
+    "event": "event_sih",
+    "note": "Fast and reliable UI developer. Let's win first place!",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  },
+  {
+    "_id": "part_user_032_karan_event_makeathon",
+    "user": "user_032_karan",
+    "event": "event_makeathon",
+    "note": "Fast and reliable UI developer. Let's win first place!",
+    "joinedAt": "2026-11-25T10:53:21.944Z",
+    "createdAt": "2026-11-25T10:53:21.944Z"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "hackmate",
+  "version": "1.0.0",
+  "description": "Hackmate - College-Exclusive Hackathon Teammate Matchmaker & Chat",
+  "scripts": {
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"cyan.bold,emerald.bold\" \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "start": "npm run dev",
+    "start:prod": "node server/server.js",
+    "build": "npm --prefix client install && npm --prefix client run build && npm --prefix server install",
+    "setup": "npm run install-all && npm run seed",
+    "install-all": "npm install && npm --prefix server install && npm --prefix client install",
+    "seed": "npm --prefix server run seed",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "test": "npm --prefix server test"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "express",
+    "mongodb",
+    "jwt",
+    "socketio",
+    "tailwind"
+  ],
+  "devDependencies": {
+    "concurrently": "^10.0.7"
+  }
+}
