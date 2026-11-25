@@ -391,24 +391,55 @@ npm run test
 
 ## 🚀 10. Deployment Guide
 
-### Frontend (Vercel or Netlify)
-1. Set the root directory to `client`.
-2. Build command: `npm run build`.
-3. Output directory: `dist`.
-4. Environment variables:
+### Option 1: 1-Click Unified Fullstack Deployment on Render (Recommended)
+HackMate is pre-configured with `render.yaml` for a unified single-service deployment (Express serves both the REST API, Socket.io, and the React frontend on the same port):
+
+1. Push your repository to **GitHub**.
+2. Go to [render.com](https://render.com) and click **New + ➔ Blueprint** (or **New Web Service**).
+3. Connect your GitHub repository.
+4. Render will automatically detect `render.yaml` with:
+   - **Build Command**: `npm run build`
+   - **Start Command**: `npm run start:prod`
+5. Click **Deploy**. Your live web app with real-time WebSockets and auto-seeded student data will be live in ~2 minutes!
+
+---
+
+### Option 2: Separate Frontend (Vercel) & Backend (Render/Railway)
+If you prefer hosting the client and backend on separate domains:
+
+#### Frontend (Vercel or Netlify)
+1. Root directory: `client`
+2. Build command: `npm run build`
+3. Output directory: `dist`
+4. Environment Variables:
    - `VITE_API_BASE`: `https://your-backend.onrender.com/api`
    - `VITE_SOCKET_URL`: `https://your-backend.onrender.com`
 
-### Backend (Render or Railway)
-1. Set the root directory to `server`.
-2. Build command: `npm install`.
-3. Start command: `node server.js`.
-4. Environment variables:
+#### Backend (Render or Railway)
+1. Root directory: `server`
+2. Build command: `npm install`
+3. Start command: `node server.js`
+4. Environment Variables:
    - `PORT`: `5000`
-   - `MONGO_URI`: `mongodb+srv://<username>:<password>@cluster.mongodb.net/hackmate?retryWrites=true&w=majority`
-   - `JWT_SECRET`: Your production secret
-   - `ALLOWED_EMAIL_DOMAIN`: `yourcollege.edu,thapar.edu`
+   - `NODE_ENV`: `production`
+   - `JWT_SECRET`: `your_secure_random_key`
+   - `ALLOWED_EMAIL_DOMAIN`: `thapar.edu`
    - `CLIENT_URL`: `https://your-hackmate.vercel.app`
+
+---
+
+### Option 3: Instant Live Public URL (Zero-Deploy via Tunnel)
+If you need an immediate HTTPS public URL right now to share with your professor or test on your mobile phone without setting up cloud accounts:
+
+1. In Terminal 1, start the app:
+   ```bash
+   npm run dev
+   ```
+2. In Terminal 2, create a public tunnel:
+   ```bash
+   npx localtunnel --port 3000
+   ```
+3. Share the generated `https://xxxx.loca.lt` URL with anyone!
 
 ---
 
