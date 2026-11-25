@@ -4,12 +4,12 @@
   "description": "Hackmate - College-Exclusive Hackathon Teammate Matchmaker & Chat",
   "scripts": {
     "dev": "concurrently -n \"SERVER,CLIENT\" -c \"cyan.bold,emerald.bold\" \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
-    "start": "npm run dev",
+    "start": "node server/server.js",
     "start:prod": "node server/server.js",
-    "build": "npm --prefix client install && npm --prefix client run build && npm --prefix server install",
+    "build": "cd client && npm install && npm run build && cd ../server && npm install",
     "setup": "npm run install-all && npm run seed",
-    "install-all": "npm install && npm --prefix server install && npm --prefix client install",
-    "seed": "npm --prefix server run seed",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
+    "seed": "node server/seed.js",
     "server": "npm --prefix server run dev",
     "client": "npm --prefix client run dev",
     "test": "npm --prefix server test"

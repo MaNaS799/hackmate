@@ -1,14 +1,16 @@
 services:
   - type: web
     name: hackmate
-    env: node
+    runtime: node
     plan: free
     region: oregon
-    buildCommand: npm run build
-    startCommand: npm run start:prod
+    buildCommand: cd client && npm install && npm run build && cd ../server && npm install
+    startCommand: node server/server.js
     envVars:
       - key: NODE_ENV
         value: production
+      - key: NPM_CONFIG_PRODUCTION
+        value: "false"
       - key: JWT_SECRET
         generateValue: true
       - key: ALLOWED_EMAIL_DOMAIN
